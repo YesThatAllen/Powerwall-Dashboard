@@ -22,7 +22,7 @@ telegraf.local
 # Local Dev files
 *.bak
 backups/*.tgz
-influxdb/run-once-*.sql.done
+**/**influxdb/run-once-*.sql.done
 
 sandbox/
 
